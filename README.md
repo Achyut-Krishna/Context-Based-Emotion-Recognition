@@ -23,7 +23,6 @@ Two feature extraction modules first extract features over an image. These featu
 The Emotic dataset can be used only for **non-commercial research and education purposes**.
 Please, fill out the following form to request access to the dataset and the corresponding annotations.
 
-[Access Request for EMOTIC](https://forms.gle/wvhComeDHwQPD6TE6)
 
 ## Usage
 Download the Emotic dataset & annotations, and prepare the directory following the below structure: 
